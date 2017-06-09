@@ -1,0 +1,10 @@
+TEXTURES 9
+Textures/Water.bmp
+Textures/wall.bmp
+Textures/ship1.bmp
+Textures/down.bmp
+Textures/sea.bmp
+Textures/sky.bmp
+Textures/floor.bmp
+Textures/fish.bmp
+Textures/birds.bmp
